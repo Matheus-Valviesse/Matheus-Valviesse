@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente aprendendo programação
-- 📫 Contate-me pelo email: valviessematheus@gmail.com
+- 📫 Contate-me pelo email: matheusbvalviesse.dev@gmail.com
 - 😄 Pronoumes:ele/dele
 - ⚡ Fato divertido: amante de terror
 
