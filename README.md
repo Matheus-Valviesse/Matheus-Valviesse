@@ -3,7 +3,6 @@
 
 - 🌱 Atualmente aprendendo programação
 - 📫 Contate-me pelo email: matheusvalviesse.dev@gmail.com
-- 😄 Pronoumes:ele/dele
 - ⚡ Fato divertido: amante de terror
 
 <div align="center">
