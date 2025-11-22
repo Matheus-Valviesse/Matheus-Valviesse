@@ -1,7 +1,7 @@
 ### Me chamo Valviesse
 
 
-- 🌱 Atualmente aprendendo programação
+- 🌱 desenvolvedor full stack
 - 📫 Contate-me pelo email: matheusvalviesse.dev@gmail.com
 - ⚡ Fato divertido: amante de terror
 
